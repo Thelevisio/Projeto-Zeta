@@ -6,3 +6,5 @@ https://dn720401.ca.archive.org/0/items/projetozetacompletodub/Projeto_Zeta-S01E
 https://dn720401.ca.archive.org/0/items/projetozetacompletodub/Projeto_Zeta-S01E02.mp4
 #EXTINF:-1 tvg-name="Projeto Zeta" tvg-logo="https://encurtador.com.br/LlZ7K" ,T01EP03
 https://dn720401.ca.archive.org/0/items/projetozetacompletodub/Projeto_Zeta-S01E03.mp4
+#EXTINF:-1 tvg-name="Projeto Zeta" tvg-logo="https://encurtador.com.br/LlZ7K" ,T01EP04
+https://dn720401.ca.archive.org/0/items/projetozetacompletodub/Projeto_Zeta-S01E04.mp4
